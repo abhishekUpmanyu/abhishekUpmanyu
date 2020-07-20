@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **abhishekUpmanyu/abhishekUpmanyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src='https://github-readme-stats.vercel.app/api?username=abhishekUpmanyu&&show_icons=true&title_color=ffffff&icon_color=0175c2&text_color=daf7dc&bg_color=151515'>
