@@ -15,14 +15,19 @@ Here are some ideas to get you started:
 
 # Hio! I'm Abhishek Upmanyu
 
-I'm a developer by passion, mostly working with Flutter with some experience in native Android development, Node and .NET
-I've also been learning a bit on data science on side for a while :)
+I'm a developer by passion, mostly good at Flutter, with some experience in native Android development, Node and .NET
+
+I've also been learning a bit on data science on the side for a while :)
 
 ### My Skills Include
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### You Can Find Me Here
 <a href="mailto:upmanyu.abhishek@yahoo.in">![upmanyu.abhishek@yahoo.in](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
